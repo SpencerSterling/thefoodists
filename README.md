@@ -1,4 +1,4 @@
-# The Foodists Blog [![Build Status](https://travis-ci.org/quantumArcade/thefoodists.svg?branch=master)](https://travis-ci.org/quantumArcade/thefoodists)
+# The Foodists Blog [![Build Status](https://travis-ci.com/quantumArcade/thefoodists.svg?branch=master)](https://travis-ci.com/quantumArcade/thefoodists)
 
 > A blog on balancing dining in and out
 
